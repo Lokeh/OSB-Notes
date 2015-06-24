@@ -64,3 +64,25 @@ While data can be used abusively, if we use it thoughtfully and apply it to soci
 - Actively counter bias and inequality
 	- Culture, systems, assumptions, ignorance, malice
 
+How to draw better insights:
+- Algorithmic transperancy 
+	-Deep learning doesn't have an algorithm to look at: "we need other ways to provide surrogate transperancy"
+- Data transperancy
+- Auditing
+- Accountability
+
+## Affirmative Consent-Driven Cycle
+
+Cycle: Ideation, research, development, release. Driven cycle.
+
+Consent-driven: Permissional freely granted with clear appreciation 7 understanding (ahead of time) of the facts, implications, etc.
+- Voluntary
+- Disclosure
+- Capable of good judgement
+- Alternatives to choose from
+- No is default. Has no risks.
+
+Affirmative: Excluding all but the empathic 'yes!!!'
+
+Say no to reading code that casually treats other people's life with no meaning that has no consequences.
+
