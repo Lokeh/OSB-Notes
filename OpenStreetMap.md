@@ -60,7 +60,7 @@ Mobile doesn't just mean phone: means *personal* & *hyper-local*
 Contain ever-increasing number of sensors
 e.g. ambient light: lower constrast map in dark room/night, brighter high contrast map when in bright room/daytime
 
-Highlighting data on the map due to user specific criteria **WA: handicap accessible? is the business open? yelp reviews? games like ingress?*
+Highlighting data on the map due to user specific criteria **WA: handicap accessible? is the business open? yelp reviews? games like ingress?**
 
 
 ## Q&A Interesting bits
